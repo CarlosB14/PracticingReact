@@ -1,0 +1,30 @@
+.root {
+  position: relative;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+div.contador {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 40px;
+  align-items: center;
+  font-weight: bold;
+}
+
+button.contador {
+height: 40px;
+font-size: 20px;
+background-color: grey;
+border: 1px blue;
+border-radius: 7px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0px;
+
+}
