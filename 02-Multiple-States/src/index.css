@@ -1,0 +1,39 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  position: relative;
+}
+
+div.contador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 29px;
+  font-weight: bold;
+}
+
+button.contador-button {
+  font-size: 26px;
+  color: grey;
+  border-radius: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
