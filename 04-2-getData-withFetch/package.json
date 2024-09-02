@@ -1,0 +1,14 @@
+{
+  "name": "04-2-getdata-withfetch",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
